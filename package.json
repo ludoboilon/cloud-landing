@@ -1,6 +1,7 @@
 {
   "name": "cloud-landing",
   "version": "0.1.0",
+  "homepage": "https://ludoboilon.github.io/cloud-landing",
   "private": true,
   "dependencies": {
     "@heroicons/react": "^2.0.8",
